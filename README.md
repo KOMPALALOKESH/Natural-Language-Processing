@@ -1,10 +1,10 @@
 # Natural-Language-Processing
 
-* ## Importing libraries and datasets
-* ## Cleaning texts
-* ## Creating bag of words model
-* ## Spliting data into trainset and testset
-* ## Training the models
+1. ## Importing libraries and datasets
+2. ## Cleaning texts
+3. ## Creating bag of words model
+4. ## Spliting data into trainset and testset
+5. ## Training the models
   * ### Decision tree classifier
     * #### Metric of Decision tree classifier
   * ### Random forest classifier
